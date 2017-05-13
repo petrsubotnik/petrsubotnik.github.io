@@ -196,7 +196,6 @@ hr.small {
 
 .portfolio {
     padding: 50px 0;
-    background-color: #aea49d;
 }
 
 .portfolio-item {
@@ -205,6 +204,7 @@ hr.small {
 
 .img-portfolio {
     margin: 0 auto;
+    border: solid 1px black;
 }
 
 .img-portfolio:hover {
@@ -240,7 +240,8 @@ hr.small {
 /* Footer */
 
 footer {
-    padding: 100px 0;
+    padding: 30px 0;
+    background-color: black;
 }
 
 #to-top {
@@ -251,10 +252,36 @@ footer {
 }
 
 h1 {
-  font-size: 100px !important;
+  font-size: 130px !important;
+  text-shadow: 4px 4px 4px white;
 }
 
 .img-responsive {
   width: 400px;
   height: 350px;
+}
+
+.main-line {
+  border: solid 1px black;
+  margin: 0 350px;
+}
+
+.intro {
+  text-shadow: 4px 4px 4px white;
+}
+.small-1 {
+  border: 1px solid black;
+  max-width: 100px;
+}
+
+.about {
+  background-color: #191c1d;
+}
+
+#about-me {
+  color: lightgrey;
+}
+
+.lead {
+  color: lightgrey;
 }
