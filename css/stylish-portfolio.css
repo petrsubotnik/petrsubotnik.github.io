@@ -248,3 +248,12 @@ footer {
   bottom: 5px;
   right: 5px;
 }
+
+h1 {
+  font-size: 100px !important;
+}
+
+.img-responsive {
+  width: 400px;
+  height: 350px;
+}
