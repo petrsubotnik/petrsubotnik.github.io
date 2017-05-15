@@ -254,7 +254,7 @@ footer {
 
 h1 {
   font-size: 130px !important;
-  text-shadow: 4px 4px 4px white;
+  text-shadow: 4px 4px 4px #f8efcd;
 }
 
 .img-responsive {
@@ -268,7 +268,7 @@ h1 {
 }
 
 .intro {
-  text-shadow: 4px 4px 4px white;
+  text-shadow: 2px 2px 2px #f8efcd;
 }
 .small-1 {
   border: 1px solid black;
