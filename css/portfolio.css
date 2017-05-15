@@ -265,6 +265,8 @@ h1 {
 .main-line {
   border: solid 1px black;
   margin: 0 350px;
+  background: #f8efcd;
+  height:1px;
 }
 
 .intro {
